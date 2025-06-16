@@ -80,8 +80,8 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f77a3276-1dda-40b4-9d42-f83b461e7553" style="width:30%; margin: 0 1%;" alt="IVator Device Image 1">
-  <img src="https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075" style="width:30%; margin: 0 1%;" alt="IVator Device Image 2">
-  <img src="https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1" style="width:30%; margin: 0 1%;" alt="IVator Device Image 3">
+  <img src="https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1" style="width:30%; margin: 0 1%;" alt="IVator Device Image 2">
+  <img src="https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075" style="width:30%; margin: 0 1%;" alt="IVator Device Image 3">
 </p>
 
 
