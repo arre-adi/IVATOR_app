@@ -68,16 +68,18 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 ---
 
 ### Device Images
-![WhatsApp Image 2025-06-09 at 19 03 21_dd161a3e](https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d)
-![WhatsApp Image 2025-06-09 at 20 24 47_27596bcf](https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075)
-![WhatsApp Image 2025-06-09 at 20 24 48_63ed8d8d](https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f77a3276-1dda-40b4-9d42-f83b461e7553" width="30%" alt="IVator Device Image 1">
+  <img src="https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075" width="30%" alt="IVator Device Image 2">
+  <img src="https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1" width="30%" alt="IVator Device Image 3">
+</p>
 
-## Screenshots  
-![WhatsApp Image 2025-06-09 at 20 24 48_7635ab88](https://github.com/user-attachments/assets/f77a3276-1dda-40b4-9d42-f83b461e7553)
-![WhatsApp Image 2025-06-09 at 19 03 21_8e96c9d2](https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac)
-![WhatsApp Image 2025-06-09 at 19 03 21_137bc9a0](https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299)
-
-
+### Mobile Application Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d" width="30%" alt="Mobile App Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac" width="30%" alt="Mobile App Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299" width="30%" alt="Mobile App Screenshot 3">
+</p>
 ---
 
 ## Future Scope
