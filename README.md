@@ -70,9 +70,9 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 ### Device Images
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 1">
-  <img src="https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 2">
-  <img src="https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 3">
+  <img src="https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d" style="width:30%; height:600px; object-fit: cover; margin: 0 1%;" alt="Device Image 1">
+  <img src="https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac" style="width:30%; height:600px; object-fit: cover; margin: 0 1%;" alt="Device Image 2">
+  <img src="https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299" style="width:30%; height:600px; object-fit: cover; margin: 0 1%;" alt="Device Image 3">
 </p>
 
 
