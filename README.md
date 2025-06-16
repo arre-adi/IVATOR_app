@@ -3,7 +3,7 @@
 <p align="center">
 
   <img src= "https://github.com/user-attachments/assets/bedb674c-61d7-4d6a-a4a5-0b1bc53ec2fe" alt="ESP32" height="40"/>
-  <img src="https://firebase.google.com/" alt="Firebase"  height="40"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase"  height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40"/>
 </p>
 
