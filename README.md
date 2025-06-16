@@ -68,18 +68,24 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 ---
 
 ### Device Images
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f77a3276-1dda-40b4-9d42-f83b461e7553" width="30%" alt="IVator Device Image 1">
-  <img src="https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075" width="30%" alt="IVator Device Image 2">
-  <img src="https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1" width="30%" alt="IVator Device Image 3">
+  <img src="https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 1">
+  <img src="https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 2">
+  <img src="https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299" style="width:30%; height:300px; object-fit: cover; margin: 0 1%;" alt="Device Image 3">
 </p>
 
+
 ### Mobile Application Screenshots
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/158b7218-e830-40e9-8fb8-856b2a3a3a2d" width="30%" alt="Mobile App Screenshot 1">
-  <img src="https://github.com/user-attachments/assets/65379757-2afe-40dc-b890-d990e95beaac" width="30%" alt="Mobile App Screenshot 2">
-  <img src="https://github.com/user-attachments/assets/01b0bf35-7ca1-46be-9449-3a271337b299" width="30%" alt="Mobile App Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/f77a3276-1dda-40b4-9d42-f83b461e7553" style="width:30%; margin: 0 1%;" alt="IVator Device Image 1">
+  <img src="https://github.com/user-attachments/assets/757796b2-564e-4cc3-b945-2328210d7075" style="width:30%; margin: 0 1%;" alt="IVator Device Image 2">
+  <img src="https://github.com/user-attachments/assets/7901e1be-01e7-4451-97b5-58e7e5be38d1" style="width:30%; margin: 0 1%;" alt="IVator Device Image 3">
 </p>
+
+
+
 ---
 
 ## Future Scope
