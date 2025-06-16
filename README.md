@@ -2,8 +2,8 @@
 
 <p align="center">
 
-  <img src= "(https://github.com/user-attachments/assets/bedb674c-61d7-4d6a-a4a5-0b1bc53ec2fe)" alt="ESP32" height="40"/>
-  <img src="https://github.com/user-attachments/assets/f1719bb0-0e30-40a3-8af5-881b4789bf89" alt="Firebase"  height="40"/>
+  <img src= "https://github.com/user-attachments/assets/bedb674c-61d7-4d6a-a4a5-0b1bc53ec2fe" alt="ESP32" height="40"/>
+  <img src="https://firebase.google.com/" alt="Firebase"  height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40"/>
 </p>
 
@@ -100,18 +100,12 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 
 
 <p align="center">
-  Team Wunderkinds
+  Team 
 
-
-- **Aditya Chaurasia**  
-  [LinkedIn](https://www.linkedin.com/in/ad84a/)
-
-- **Aryan Sharma**  
-  [LinkedIn](https://www.linkedin.com/in/aryan-sharma-profile/)
-
-- **Aryan Mehra**  
-  [LinkedIn](https://www.linkedin.com/in/aryan-mehra-profile/)
-- **Amber Gaur**  
-  [LinkedIn](https://www.linkedin.com/in/amber-gaur-profile/)
-
-  </p>
+<p align="center">
+  <strong>Team Amoort</strong><br><br>
+  <a href="https://www.linkedin.com/in/ad84a/">Aditya Chaurasia</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/aryan-sharma-profile/">Aryan Sharma</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/aryan-mehra-profile/">Aryan Mehra</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/amber-gaur-profile/">Amber Gaur</a>
+</p>
