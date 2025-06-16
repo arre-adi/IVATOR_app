@@ -1,8 +1,9 @@
 # IVator: A Smart IV Drip and Urine Flow Monitoring System
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/ESP32_chip_pinout.png" alt="ESP32" height="40"/>
-  <img src="https://img.icons8.com/ios/40/000000/firebase.png" alt="Firebase"/>
+
+  <img src= "(https://github.com/user-attachments/assets/bedb674c-61d7-4d6a-a4a5-0b1bc53ec2fe)" alt="ESP32" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f1719bb0-0e30-40a3-8af5-881b4789bf89" alt="Firebase"  height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40"/>
 </p>
 
@@ -97,17 +98,20 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 
 ---
 
-## Contact
 
-**Team:**  
+<p align="center">
+  Team Wunderkinds
+
 
 - **Aditya Chaurasia**  
   [LinkedIn](https://www.linkedin.com/in/ad84a/)
 
 - **Aryan Sharma**  
-  [LinkedIn](https://www.linkedin.com/in/aryan-sharma-profile/)]
+  [LinkedIn](https://www.linkedin.com/in/aryan-sharma-profile/)
 
 - **Aryan Mehra**  
-  [LinkedIn](https://www.linkedin.com/in/aryan-mehra-profile/)]
+  [LinkedIn](https://www.linkedin.com/in/aryan-mehra-profile/)
 - **Amber Gaur**  
-  [LinkedIn](https://www.linkedin.com/in/amber-gaur-profile/) 
+  [LinkedIn](https://www.linkedin.com/in/amber-gaur-profile/)
+
+  </p>
