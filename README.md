@@ -100,9 +100,6 @@ Data is transmitted wirelessly to cloud platforms for easy access by caregivers.
 
 
 <p align="center">
-  Team 
-
-<p align="center">
   <strong>Team Amoort</strong><br><br>
   <a href="https://www.linkedin.com/in/ad84a/">Aditya Chaurasia</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/aryan-sharma-profile/">Aryan Sharma</a> &nbsp;|&nbsp;
